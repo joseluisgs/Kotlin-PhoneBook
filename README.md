@@ -1,5 +1,5 @@
 # Kotlin Phone Book
-Aplicación para aplicar distintos métodos de ordenación sobre un banco de datos para la certificación de Kotlin Developer de JetBrains Academy.
+Aplicación para aplicar distintos métodos de ordenación y búsqueda sobre un banco de datos para la certificación de Kotlin Developer de JetBrains Academy.
 
 [![Kotlin](https://img.shields.io/badge/Code-Kotlin-blueviolet)](https://kotlinlang.org/)
 [![LISENCE](https://img.shields.io/badge/Lisence-MIT-green)]()
@@ -9,7 +9,7 @@ Aplicación para aplicar distintos métodos de ordenación sobre un banco de dat
 ![imagen](https://www.adesso-mobile.de/wp-content/uploads/2021/02/kotlin-einfu%CC%88hrung.jpg)
 
 ## Acerca de
-Aplicación para aplicar algoritmos de ordenación para JetBrains Academy, certificación de Kotlin.
+Aplicación para aplicar algoritmos de ordenación y búsuqeda para JetBrains Academy, certificación de Kotlin.
 
 - [Kotlin Phone Book](#kotlin-phone-book)
   - [Acerca de](#acerca-de)
